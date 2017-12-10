@@ -1,4 +1,8 @@
 
+
+参考大神项目例子：https://coding.net/u/gamedaybyday/p/EgretExample/git
+官方例子：https://github.com/egret-labs/egret-game-library
+
 GiftExample:本地图片上传,动态GIF表情图生成 
 一 head first
 二 打开本地图片功能
@@ -10,10 +14,8 @@ GiftExample:本地图片上传,动态GIF表情图生成
 1.3 Egret中利用RenderTexture截取多张表情图的base64字符串，传给gifjs工具类生成动态GIF。
 
 
-
 QRCodeExample
 二维码
-
 
 
 微信
